@@ -7,6 +7,4 @@ As a problem solver, I am always eager to find new and innovative solutions to c
 Whether I am working on infrastructure automation, software design, or troubleshooting, I am committed to delivering high-quality results that exceed expectations.</p>
 <p dir="auto">Above all, I value collaboration and teamwork. I believe that knowledge sharing is essential to building successful projects and strong teams.
 I am always eager to learn from and collaborate with my colleagues, and I am committed to fostering a positive and proactive work environment.</p>
-<ul dir="auto">
-<li>
 </article>
